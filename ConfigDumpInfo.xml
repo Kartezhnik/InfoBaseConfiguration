@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Пользователи" id="5df0e07d-346b-4529-a5a4-e9cf5c4925a2" configVersion="557d302b75580c4385b227552f71246f00000000">
+			<Metadata name="Catalog.Пользователи.Attribute.Имя" id="2ce476e9-2d2d-4a0e-9056-863584645c92"/>
+			<Metadata name="Catalog.Пользователи.Attribute.НомерТелефона" id="b17dae5e-d7fa-4a1b-a73e-e86a13813a63"/>
+			<Metadata name="Catalog.Пользователи.Attribute.Отчество" id="be5571d3-308f-42da-98f8-265eb84d38b0"/>
+			<Metadata name="Catalog.Пользователи.Attribute.Фамилия" id="f0f1383f-e4f6-4bdc-9898-3aa19af93696"/>
+		</Metadata>
+		<Metadata name="Catalog.Пользователи.Form.ФормаСписка" id="e5d47994-a41b-46f4-8053-e0611722d2f5" configVersion="acfcaad316034047a4bb2102c3a2f3d600000000"/>
+		<Metadata name="Catalog.Пользователи.Form.ФормаСписка.Form" id="e5d47994-a41b-46f4-8053-e0611722d2f5.0" configVersion="4cce1fab56e23c45ae2ecdf532777e5b00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="c70d8692-c8ae-4dc3-abde-68676c12be31" configVersion="80fa48baa359a040bcd79758447fa67a00000000"/>
+		<Metadata name="DataProcessor.ОбработкаПользователи" id="c76d65e1-5ab7-411d-9ecf-eeee90f035ab" configVersion="e05bb19f9d433442bf1610dd734e2b7400000000">
+			<Metadata name="DataProcessor.ОбработкаПользователи.Attribute.МассивПользователей" id="567d3f81-4f34-4bf0-9354-81a33e36c59d"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ОбработкаПользователи.Form.ОбработкаПользователи" id="f7ae3b0b-226c-4854-9dce-f58814371f78" configVersion="0ebfaf2785290844ac2c1352219b7aa200000000"/>
+		<Metadata name="DataProcessor.ОбработкаПользователи.Form.ОбработкаПользователи.Form" id="f7ae3b0b-226c-4854-9dce-f58814371f78.0" configVersion="164b1c3e131a5b4ba97e6538f545c79600000000"/>
+		<Metadata name="DataProcessor.ОбработкаПользователи.ObjectModule" id="c76d65e1-5ab7-411d-9ecf-eeee90f035ab.0" configVersion="4619475f9279fb4cbb30547236d8224900000000"/>
+		<Metadata name="Document.ПродажаТовара" id="54398476-abdc-4112-a7a9-807e257f6608" configVersion="cf09831dec02194da24468e01a7134fb00000000">
+			<Metadata name="Document.ПродажаТовара.Attribute.ПризнакОплаты" id="06da4419-d89f-4b64-8476-9b290102d7c5"/>
+			<Metadata name="Document.ПродажаТовара.Attribute.Покупатель" id="0f8d8a2c-0ff5-4210-944a-7087fb7f6245"/>
+			<Metadata name="Document.ПродажаТовара.Attribute.Сумма" id="4ee246c3-f376-45ed-a19f-da0de032e6c9"/>
+			<Metadata name="Document.ПродажаТовара.TabularSection.Товары.Attribute.Количество" id="73a02fc5-9dd6-493b-86d2-9838bc6d06bc"/>
+			<Metadata name="Document.ПродажаТовара.Attribute.ДатаПродажи" id="9fe0f7d8-0ca4-48f8-82c4-29887c0e54b6"/>
+			<Metadata name="Document.ПродажаТовара.TabularSection.Товары.Attribute.СуммаСтроки" id="b734207a-aa49-47bc-9d9c-b49f2d240d6e"/>
+			<Metadata name="Document.ПродажаТовара.TabularSection.Товары.Attribute.Цена" id="baf60d37-deba-4b64-bb98-e3d1b775d086"/>
+			<Metadata name="Document.ПродажаТовара.TabularSection.Товары" id="ef72eb09-e54e-4c01-837b-1856b848aef7"/>
+			<Metadata name="Document.ПродажаТовара.TabularSection.Товары.Attribute.НазваниеТовара" id="fd5fbae6-c7cd-4436-8140-2d36f7741842"/>
+		</Metadata>
+		<Metadata name="Document.ПродажаТовара.ObjectModule" id="54398476-abdc-4112-a7a9-807e257f6608.0" configVersion="660d74f12599ae4992b2388177f6fca300000000"/>
+		<Metadata name="Enum.СтатусОплаты" id="86a5777d-47ca-4545-84dc-55fe3eed209d" configVersion="64e11eb45110ee469416c6c483010f0200000000">
+			<Metadata name="Enum.СтатусОплаты.EnumValue.НеВыполнен" id="1c9a3781-6ca0-4be8-ae06-d4fa77867497"/>
+			<Metadata name="Enum.СтатусОплаты.EnumValue.Выполнен" id="ca473ae5-17a9-4399-9206-766c2e8ee8dd"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="4a0c58f8-70fd-4fae-a882-7ae922810083" configVersion="731f507394a79048970ca5dcce0c592500000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
