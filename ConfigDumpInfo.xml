@@ -16,7 +16,7 @@
 		<Metadata name="DataProcessor.ОбработкаПользователи.Form.ОбработкаПользователи" id="f7ae3b0b-226c-4854-9dce-f58814371f78" configVersion="0ebfaf2785290844ac2c1352219b7aa200000000"/>
 		<Metadata name="DataProcessor.ОбработкаПользователи.Form.ОбработкаПользователи.Form" id="f7ae3b0b-226c-4854-9dce-f58814371f78.0" configVersion="164b1c3e131a5b4ba97e6538f545c79600000000"/>
 		<Metadata name="DataProcessor.ОбработкаПользователи.ObjectModule" id="c76d65e1-5ab7-411d-9ecf-eeee90f035ab.0" configVersion="4619475f9279fb4cbb30547236d8224900000000"/>
-		<Metadata name="Document.ПродажаТовара" id="54398476-abdc-4112-a7a9-807e257f6608" configVersion="cf09831dec02194da24468e01a7134fb00000000">
+		<Metadata name="Document.ПродажаТовара" id="54398476-abdc-4112-a7a9-807e257f6608" configVersion="bc28c39dd7ab5445b5e6b8c9b653c1c400000000">
 			<Metadata name="Document.ПродажаТовара.Attribute.ПризнакОплаты" id="06da4419-d89f-4b64-8476-9b290102d7c5"/>
 			<Metadata name="Document.ПродажаТовара.Attribute.Покупатель" id="0f8d8a2c-0ff5-4210-944a-7087fb7f6245"/>
 			<Metadata name="Document.ПродажаТовара.Attribute.Сумма" id="4ee246c3-f376-45ed-a19f-da0de032e6c9"/>
@@ -27,6 +27,8 @@
 			<Metadata name="Document.ПродажаТовара.TabularSection.Товары" id="ef72eb09-e54e-4c01-837b-1856b848aef7"/>
 			<Metadata name="Document.ПродажаТовара.TabularSection.Товары.Attribute.НазваниеТовара" id="fd5fbae6-c7cd-4436-8140-2d36f7741842"/>
 		</Metadata>
+		<Metadata name="Document.ПродажаТовара.Form.ФормаДокумента" id="f76ba5da-608c-46a5-808c-519552d86236" configVersion="bf24c2f83ff0434b8e346c39848194d300000000"/>
+		<Metadata name="Document.ПродажаТовара.Form.ФормаДокумента.Form" id="f76ba5da-608c-46a5-808c-519552d86236.0" configVersion="0b8990501792394a87cb4f271235a22c00000000"/>
 		<Metadata name="Document.ПродажаТовара.ObjectModule" id="54398476-abdc-4112-a7a9-807e257f6608.0" configVersion="660d74f12599ae4992b2388177f6fca300000000"/>
 		<Metadata name="Enum.СтатусОплаты" id="86a5777d-47ca-4545-84dc-55fe3eed209d" configVersion="64e11eb45110ee469416c6c483010f0200000000">
 			<Metadata name="Enum.СтатусОплаты.EnumValue.НеВыполнен" id="1c9a3781-6ca0-4be8-ae06-d4fa77867497"/>
